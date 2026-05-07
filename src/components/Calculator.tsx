@@ -277,7 +277,7 @@ export default function Calculator() {
 
       {/* Screen */}
       <div
-        className="rounded-xl p-4 mb-5 text-green-500 bg-stone-950 font-mono"
+        className="rounded-xl p-4 mb-5 font-mono text-green-500 bg-zinc-950"
         style={{
           background: "var(--screen-bg)",
           color: "var(--screen-fg)",
